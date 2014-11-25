@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chaozhi ZHENG, Launches Site"
+title: "Chaozhi Zheng, Launches Site"
 date: 2014-11-24
 ---
 
